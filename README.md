@@ -3,4 +3,4 @@ This repository is intended to track the development, writing, and editing of th
 
 See here for the project website: https://tropicalforestscoping.com/
 
-See here for the public Google Doc: https://docs.google.com/document/d/1B6mK-M5ZAr9DLBNrrpIOCFaeGJcJlCHi9Jjf8NpGP9A/edit#heading=h.3zhgvk7xsu7s
+See here for the working white paper Google Doc: https://docs.google.com/document/d/1B6mK-M5ZAr9DLBNrrpIOCFaeGJcJlCHi9Jjf8NpGP9A/edit#heading=h.3zhgvk7xsu7s
